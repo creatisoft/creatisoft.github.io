@@ -1,6 +1,6 @@
 body{
 
-    background-color: rgb(30, 107, 161);
+    background-color: rgb(7, 152, 255);
 
 }
 
@@ -10,8 +10,11 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(43, 114, 191);
+    background-color: rgb(39, 65, 94);
     
+    border-radius: 24px;
+    border-style: solid;
+    border-color: rgb(4, 30, 44);
 }
 
 li {

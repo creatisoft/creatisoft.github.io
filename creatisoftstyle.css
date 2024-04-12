@@ -108,10 +108,11 @@ div{
 
 .starlost-img {
 
-
+    overflow: hidden;
     width: 350px;
     height: 250px;
-    border-radius: 24px;
+    border-width: 12px;
+    border-radius: 12px;
 }
 
 
