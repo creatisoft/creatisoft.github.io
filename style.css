@@ -9,6 +9,8 @@ div.cardimage{
     position: relative;
     top: 200px;
     left: 80px;
+    margin-right: 64px;    
+    
 
 }
 
@@ -62,9 +64,5 @@ div.imagetext{
 
     top: 45px;
     right: 150px;
-
-
-    
-    
 
 }
